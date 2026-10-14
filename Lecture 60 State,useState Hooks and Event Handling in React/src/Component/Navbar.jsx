@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Navbar({count}) {
+function Navbar({ count }) {
   return (
     <div>Navbar = {count}</div>
   )
